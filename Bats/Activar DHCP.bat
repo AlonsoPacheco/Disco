@@ -1,0 +1,1 @@
+wmic nicconfig where macaddress="08:60:6E:85:42:8E" call EnableDHCP

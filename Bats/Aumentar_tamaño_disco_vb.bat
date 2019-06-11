@@ -1,0 +1,1 @@
+"C:\Program Files\Oracle\VirtualBox\VBoxManage.exe" modifyhd "J:\Maquinas Virtuales\Windows 8.1 VS2015\Windows 8.1.vdi" --resize 25600
